@@ -1,2 +1,5 @@
 # CFA
-CFA study notes
+
+定期更新。
+
+非专业CFA学习笔记，欢迎批评指正。
