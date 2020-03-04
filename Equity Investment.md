@@ -147,9 +147,30 @@
 
 ### Security market indexs
 
-- 证券市场指数类型
-  - 价格指数
-    - 只使用
+##### 证券指数赋权方式
+
+- price-weight
+  - 何时重新赋权（rebalance）
+  - 如何计算收益
+  - 优缺点
+- capitalization-weight
+  - 何时重新赋权
+  - 如何计算收益
+  - 优缺点
+- equal-weight
+  - 何时重新赋权
+  - 如何计算收益
+  - 优缺点
+
+##### 常识
+
+-   
+
+##### 其它投资指数
+
+-   房地产
+-   大宗商品
+-   对冲基金
 
 ###  Overview of Equity Securities
 
